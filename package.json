@@ -1,7 +1,7 @@
 {
-  "name": "cokie-app",
+  "name": "uv-app",
   "version": "1.0.0",
-  "description": "cokie instance",
+  "description": "Ultraviolet instance",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
